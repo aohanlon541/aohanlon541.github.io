@@ -106,9 +106,10 @@ img {
 	margin: 30px 7.5px 30px 55px; 
 }
 
-img.main {
+img.imageParagrah {
 	width: 200;
 	height: 200;
+	padding-right: 10px;
 }
 
 /*smaller connect with me box*/
